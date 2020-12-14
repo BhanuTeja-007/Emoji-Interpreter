@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* padding: 4rem;*/
+  margin: 4rem;
+  font-family: "Bangers", cursive;
+  letter-spacing: 0.06rem;
+}
+
+h1 {
+  color: #fcc83f;
+  text-shadow: 1px 1px #000;
+}
+
+h3 {
+  text-shadow: 2px 2px #000000;
+}
+
+h2 {
+  color: black;
+  text-shadow: 1px 1px #e5e7eb;
+}
+
+body {
+  background-color: #113557;
+}
+
+.image {
+  max-width: 250px;
+  display: block;
+  margin: auto;
+}
+
+.heading {
+  color: #fbba08;
+}
+
+.inp {
+  padding: 0.7rem;
+  width: 50%;
+}
